@@ -4,19 +4,18 @@
         Jewelry</h2>
     <div>
         <ul>
+          <% @jewelry.each do |g| %>
+            <li><a href="http://www.wowhead.com/?item=<%= g['id'] %>"><%= g['name'] %></a></li>
+          <% end %>
         </ul>
     </div>
     <h2>
         Meta Gems</h2>
     <div>
         <ul>
-        </ul>
-    </div>
-    <h2>
-        Rare gems
-    </h2>
-    <div>
-        <ul>
+          <% @metaGems.each do |g| %>
+            <li><a href="http://www.wowhead.com/?item=<%= g['id'] %>"><%= g['name'] %></a></li>
+          <% end %>
         </ul>
     </div>
     <h2>
@@ -25,7 +24,17 @@
     <div>
         <ul>
           <% @epicGems.each do |g| %>
-            <li><a href="<a href='http://www.wowhead.com/?item=<%= g['id'] %>"><%= g['name'] %></a></li>
+            <li><a href="http://www.wowhead.com/?item=<%= g['id'] %>"><%= g['name'] %></a></li>
+          <% end %>
+        </ul>
+    </div>
+    <h2>
+        Rare gems
+    </h2>
+    <div>
+        <ul>
+          <% @rareGems.each do |g| %>
+            <li><a href="http://www.wowhead.com/?item=<%= g['id'] %>"><%= g['name'] %></a></li>
           <% end %>
         </ul>
     </div>
