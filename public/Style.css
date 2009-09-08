@@ -1,0 +1,16 @@
+﻿body
+{
+	background-color: black;
+	font-family: Arial;
+	color: white;
+}
+
+a:link
+{
+	color:Orange;
+}
+
+a:visited
+{
+	color:Orange;
+}
