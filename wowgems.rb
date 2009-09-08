@@ -27,3 +27,20 @@ get '/' do
   
   erb :gems
 end
+
+get '/bc' do
+  doc = XML::Document.file('Gems.xml')
+  
+  
+  @metaGems = []
+  doc.find('//gems/bc/meta/gem').each do |g|
+    @metaGems << g.attributes.inject({}) { |h, a| h[a.name] = a.value; h }
+  end
+  
+  @rareGems = []
+  doc.find('//gems/bc/rare/gem').each do |g|
+    @rareGems << g.attributes.inject({}) { |h, a| h[a.name] = a.value; h }
+  end
+  
+  erb :bc
+end
