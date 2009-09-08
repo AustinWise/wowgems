@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<gems>
+  <wrath>
+    <jewelry>
+      <item id="42643" name="Titanium Earthguard Ring"/>
+      <item id="42646" name="Titanium Earthguard Chain"/>
+      <item id="42642" name="Titanium Impact Band"/>
+      <item id="42647" name="Titanium Spellshock Necklace"/>
+      <item id="43253" name="Ring of Northern Tears"/>
+    </jewelry>
+    <meta>
+      <gem id="41378" name="Forlorn Skyflare Diamond"/>
+      <gem id="41285" name="Chaotic Skyflare Diamond"/>
+      <gem id="41375" name="Tireless Skyflare Diamond"/>
+      <gem id="41339" name="Swift Skyflare Diamond"/>
+
+      <gem id="41398" name="Relentless Earthsiege Diamond"/>
+      <gem id="41401" name="Insightful Earthsiege Diamond"/>
+      <gem id="41380" name="Austere Earthsiege Diamond"/>
+      <gem id="41397" name="Powerful Earthsiege Diamond"/>
+      <gem id="41381" name="Persistent Earthsiege Diamond"/>
+      <gem id="41396" name="Eternal Earthsiege Diamond"/>
+      <gem id="41395" name="Bracing Earthsiege Diamond"/>
+    </meta>
+    <epic>
+      <gem id="40119" name="Solid Majestic Zircon"/>
+      <gem id="40175" name="Dazzling Eye of Zul"/>
+      <gem id="40151" name="Luminous Ametrine"/>
+      <gem id="40155" name="Reckless Ametrine"/>
+      <gem id="49110" name="Nightmare Tear"/>
+      <gem id="40130" name="Shifting Dreadstone"/>
+      <gem id="40111" name="Bold Cardinal Ruby"/>
+      <gem id="40113" name="Runed Cardinal Ruby"/>
+      <gem id="40112" name="Delicate Cardinal Ruby"/>
+    </epic>
+    <uncommon>
+    </uncommon>
+    <rare>
+      <gem id="40003" name="Precise Scarlet Ruby"/>
+      <gem id="39996" name="Bold Scarlet Ruby"/>
+      <gem id="39998" name="Runed Scarlet Ruby"/>
+      <gem id="40002" name="Fractured Scarlet Ruby"/>
+      <gem id="39999" name="Bright Scarlet Ruby"/>
+      <gem id="39997" name="Delicate Scarlet Ruby"/>
+
+      <gem id="40038" name="Etched Monarch Topaz"/>
+      <gem id="40051" name="Reckless Monarch Topaz"/>
+      <gem id="40043" name="Deadly Monarch Topaz"/>
+      <gem id="40052" name="Wicked Monarch Topaz"/>
+      <gem id="40044" name="Glinting Monarch Topaz"/>
+      <gem id="40050" name="Durable Monarch Topaz"/>
+      <gem id="40049" name="Veiled Monarch Topaz"/>
+      <gem id="40046" name="Deft Monarch Topaz"/>
+      <gem id="40041" name="Fierce Monarch Topaz"/>
+      <gem id="40058" name="Accurate Monarch Topaz"/>
+      <gem id="40053" name="Pristine Monarch Topaz"/>
+
+      <gem id="40013" name="Smooth Autumn's Glow"/>
+      <gem id="40016" name="Mystic Autumn's Glow"/>
+      <gem id="40015" name="Thick Autumn's Glow"/>
+      <gem id="40012" name="Brilliant Autumn's Glow"/>
+      <gem id="40014" name="Rigid Autumn's Glow"/>
+
+      <gem id="40099" name="Shining Forest Emerald"/>
+      <gem id="40085" name="Timeless Forest Emerald"/>
+      <gem id="40086" name="Jagged Forest Emerald"/>
+      <gem id="40090" name="Steady Forest Emerald"/>
+      <gem id="40098" name="Radiant Forest Emerald"/>
+      <gem id="40094" name="Dazzling Forest Emerald"/>
+      <gem id="40089" name="Enduring Forest Emerald"/>
+      <gem id="40100" name="Lambent Forest Emerald"/>
+
+      <gem id="40010" name="Lustrous Sky Sapphire"/>
+      <gem id="40008" name="Solid Sky Sapphire"/>
+      <gem id="40009" name="Sparkling Sky Sapphire"/>
+
+      <gem id="40026" name="Purified Twilight Opal"/>
+      <gem id="40023" name="Shifting Twilight Opal"/>
+      <gem id="40034" name="Guardian's Twilight Opal"/>
+      <gem id="40025" name="Glowing Twilight Opal"/>
+      <gem id="40032" name="Defender's Twilight Opal"/>
+      <gem id="40030" name="Infused Twilight Opal"/>
+      <gem id="40029" name="Balanced Twilight Opal"/>
+    </rare>
+  </wrath>
+  <bc>
+    <meta>
+      <gem id="25895" name="Enigmatic Skyfire Diamond"/>
+      <gem id="25901" name="Insightful Earthstorm Diamond"/>
+      <gem id="25894" name="Swift Skyfire Diamond"/>
+      <gem id="34220" name="Chaotic Skyfire Diamond"/>
+    </meta>
+    <uncommon>
+    </uncommon>
+    <rare>
+      <gem id="24028" name="Delicate Living Ruby"/>
+      <gem id="24036" name="Flashing Living Ruby"/>
+      
+      <gem id="31867" name="Veiled Noble Topaz"/>
+      <gem id="35316" name="Reckless Noble Topaz"/>
+      <gem id="31868" name="Wicked Noble Topaz"/>
+      
+      <gem id="31861" name="Great Dawnstone"/>
+      <gem id="35315" name="Quick Dawnstone"/>
+      <gem id="24053" name="Mystic Dawnstone"/>
+      
+      <gem id="33782" name="Steady Talasite"/>
+      <gem id="35318" name="Forceful Talasite"/>
+      
+      <gem id="24033" name="Solid Star of Elune"/>
+      <gem id="24039" name="Stormy Star of Elune"/>
+      
+      <gem id="24057" name="Royal Nightseye"/>
+      <gem id="35707" name="Regal Nightseye"/>
+      
+      <gem id="32836" name="Purified Shadow Pearl"/>
+    </rare>
+  </bc>
+</gems>
