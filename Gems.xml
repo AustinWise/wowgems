@@ -29,14 +29,20 @@
       <gem id="40113" name="Runed Cardinal Ruby"/>
       <gem id="40112" name="Delicate Cardinal Ruby"/>
       
+      <gem id="40142" name="Inscribed Ametrine"/>
       <gem id="40151" name="Luminous Ametrine"/>
       <gem id="40155" name="Reckless Ametrine"/>
+      
+      <gem id="40123" name="Brilliant King's Amber"/>
+      <gem id="40124" name="Smooth King's Amber"/>
       
       <gem id="40175" name="Dazzling Eye of Zul"/>
       
       <gem id="40120" name="Sparkling Majestic Zircon"/>
       <gem id="40119" name="Solid Majestic Zircon"/>
       
+      <gem id="40138" name="Regal Dreadstone"/>
+      <gem id="40133" name="Purified Dreadstone"/>
       <gem id="40130" name="Shifting Dreadstone"/>
     </epic>
     <uncommon>
