@@ -1,6 +1,16 @@
     <h1>
         Wrath of the Lich King gems</h1>
     <h2>
+        Epic gems
+    </h2>
+    <div>
+        <ul>
+          <% @epicGems.each do |g| %>
+            <li><a href="http://www.wowhead.com/?item=<%= g['id'] %>"><%= g['name'] %></a></li>
+          <% end %>
+        </ul>
+    </div>
+    <h2>
         Jewelry</h2>
     <div>
         <ul>
@@ -14,16 +24,6 @@
     <div>
         <ul>
           <% @metaGems.each do |g| %>
-            <li><a href="http://www.wowhead.com/?item=<%= g['id'] %>"><%= g['name'] %></a></li>
-          <% end %>
-        </ul>
-    </div>
-    <h2>
-        Epic gems
-    </h2>
-    <div>
-        <ul>
-          <% @epicGems.each do |g| %>
             <li><a href="http://www.wowhead.com/?item=<%= g['id'] %>"><%= g['name'] %></a></li>
           <% end %>
         </ul>
