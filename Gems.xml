@@ -25,36 +25,31 @@
     <epic>
       <gem id="49110" name="Nightmare Tear"/>
       
-      <gem id="40117" name="Fractured Cardinal Ruby"/>
+      <gem id="40118" name="Precise Cardinal Ruby"/>
       <gem id="40111" name="Bold Cardinal Ruby"/>
-      <gem id="40113" name="Runed Cardinal Ruby"/>
+      <gem id="40123" name="Brilliant Cardinal Ruby"/>
       <gem id="40112" name="Delicate Cardinal Ruby"/>
       
       <gem id="40147" name="Deadly Ametrine"/>
-      <gem id="40148" name="Glinting Ametrine"/>
-      <gem id="40153" name="Veiled Ametrine"/>
       <gem id="40142" name="Inscribed Ametrine"/>
-      <gem id="40151" name="Luminous Ametrine"/>
       <gem id="40155" name="Reckless Ametrine"/>
       
-      <gem id="40128" name="Quick King's Amber"/>
-      <gem id="40125" name="Rigid King's Amber"/>
-      <gem id="40123" name="Brilliant King's Amber"/>
       <gem id="40124" name="Smooth King's Amber"/>
+      <gem id="40128" name="Quick King's Amber"/>
       
-      <gem id="40170" name="Seer's Eye of Zul"/>
       <gem id="40179" name="Energized Eye of Zul"/>
-      <gem id="40166" name="Vivid Eye of Zul"/>
-      <gem id="40167" name="Enduring Eye of Zul"/>
-      <gem id="40175" name="Dazzling Eye of Zul"/>
+      <gem id="40166" name="Nimble Eye of Zul"/>
+      <gem id="40167" name="Regal Eye of Zul"/>
       
       <gem id="40120" name="Sparkling Majestic Zircon"/>
       <gem id="40119" name="Solid Majestic Zircon"/>
+      <gem id="40125" name="Rigid Majestic Zircon"/>
       
       <gem id="40139" name="Defender's Dreadstone"/>
-      <gem id="40138" name="Regal Dreadstone"/>
+      <gem id="40148" name="Glinting Dreadstone"/>
       <gem id="40133" name="Purified Dreadstone"/>
       <gem id="40130" name="Shifting Dreadstone"/>
+      <gem id="40153" name="Veiled Dreadstone"/>
     </epic>
     <uncommon>
     </uncommon>
